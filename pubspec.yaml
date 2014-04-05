@@ -3,4 +3,6 @@ version: 0.1
 description: dart project template
 author: Harry Stern <harry.stern@rutgers.edu>
 homepage: https://github.com/boustrophedon/dart-template
+environment:
+  sdk: ">=1.2.0"
 
